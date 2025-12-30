@@ -1,5 +1,7 @@
 # Piedmont Hospital Patient Satisfaction Dashboard
 
+![alt text](https://github.com/wii-nguyen/hospital_dashboard/blob/main/3.%20Dashboard%20visualization/hospital_dashboard.png "Hospital dashboard")
+
 ## 1. Business objective:
 Piedmont Healthcare executives want to evaluate and improve patient experience across Piedmont hospitals in Georgia. They want to:
   1. Identify key drivers of patient satisfaction.
